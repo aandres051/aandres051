@@ -1,4 +1,11 @@
 ### Hi there 👋
+I'm Andrés and I Software Developer from Colombia.
+
+## Skill
+- 👨‍💻 Python
+
+## Contact
+- [Andres Alvarez](https://www.linkedin.com/in/andresalvarezbecerra/) to Linkedin
 
 <!--
 **aandres051/aandres051** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
