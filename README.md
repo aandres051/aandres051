@@ -1,9 +1,8 @@
 ### Hi there 👋
-I'm Andrés and I Software Developer from Colombia.
+I'm Andrés and I Machine Learning Engeneer from Colombia.
 
 ## Skill
 - 👨‍💻 Python
-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> I'm currently learning Javascript
 
 ## Contact
 - [Andres Alvarez](https://www.linkedin.com/in/andresalvarezbecerra/) to Linkedin
