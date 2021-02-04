@@ -1,8 +1,12 @@
 ### Hi there 👋
-I'm Andrés and I Machine Learning Engeneer from Colombia.
+I'm Andrés and I'm Frontend Developer from Colombia.
 
 ## Skill
 - 👨‍💻 Python
+- JavaScript
+- HTML
+- CSS
+
 
 ## Contact
 - [Andres Alvarez](https://www.linkedin.com/in/andresalvarezbecerra/) to Linkedin
