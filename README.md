@@ -6,6 +6,8 @@ I'm Andrés and I'm Frontend Developer from Colombia.
 - JavaScript
 - HTML
 - CSS
+- PUG
+- SASS
 
 
 ## Contact
